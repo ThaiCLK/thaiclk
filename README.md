@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thai Chu</h1>
 <h3 align="center">A frontend developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB3YWdzOWIyZ2U0dDJxZm5nMHRsNzY1bjI2ZHU3am45aDhzZDMzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB3YWdzOWIyZ2U0dDJxZm5nMHRsNzY1bjI2ZHU3am45aDhzZDMzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thaiclk&label=Profile%20views&color=0e75b6&style=flat" alt="thaiclk" /> </p>
 
 - 🌱 I’m currently learning **React Native**
