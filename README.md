@@ -1,9 +1,23 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" width="652" alt="banner" />
-  <h1>Hi, I'm Thai Chu 👋</h1>
-  <p><b>Full Stack Developer</b> · Vietnam</p>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB3YWdzOWIyZ2U0dDJxZm5nMHRsNzY1bjI2ZHU3am45aDhzZDMzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" width="200" alt="coding" />
+  <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" width="100%" alt="banner" />
 </div>
+
+<table align="center">
+  <tr>
+    <td valign="middle" width="40%">
+      <h3 align="center">Whassup, It's CL K Thai</h3>
+      <p align="center">
+  <img width="180" alt="coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB3YWdzOWIyZ2U0dDJxZm5nMHRsNzY1bjI2ZHU3am45aDhzZDMzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" />
+      </p>
+    </td>
+    <td valign="middle" width="60%">
+      <img width="100%" src="./isocalendar.svg" alt="contributions calendar" />
+    </td>
+  </tr>
+</table>
+
+
+<br clear="both" />
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
@@ -32,5 +46,3 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
-
-
