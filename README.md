@@ -2,24 +2,18 @@
   <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" width="100%" alt="banner" />
 </div>
 
-<table align="center">
-  <tr>
-    <td valign="middle" width="40%">
-      <h3 align="center">Whassup, It's CL K Thai</h3>
-      <p align="center">
+<h3 align="center">Whassup, It's CL K Thai</h3>
+<p align="center">
   <img width="180" alt="coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB3YWdzOWIyZ2U0dDJxZm5nMHRsNzY1bjI2ZHU3am45aDhzZDMzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" />
-      </p>
-    </td>
-    <td valign="middle" width="60%">
-      <img width="100%" src="./isocalendar.svg" alt="contributions calendar" />
-    </td>
-  </tr>
-</table>
+</p>
 
 
 <br clear="both" />
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
+<p align="center">
+  <img src="./isocalendar.svg" alt="contributions calendar" />
+</p>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ThaiCLK&theme=radical" />
